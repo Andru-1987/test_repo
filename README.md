@@ -1,3 +1,6 @@
-# test_repo
+### THIS IS NEW DOT REPO
+---
 
-New README
+- STEP1
+- STEP2
+- STEP3
